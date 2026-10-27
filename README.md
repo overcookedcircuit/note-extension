@@ -84,9 +84,3 @@ After rebuilding, click the extension's **Reload** button on `chrome://extension
 This is my first Chrome extension, and I honestly just made it for fun. Feel free to fork it, modify it, improve it, or turn it into something better. Contributions and ideas are always welcome!
 
 If you find a bug or have an idea, feel free to open an issue. Pull requests are welcome too.
-
-## License
-
-This repository does not currently include a license. That means it should not be assumed that the code can be freely redistributed or reused under MIT or another open-source license.
-
-Adding an MIT license would make it easier for other people to legally reuse, modify, and contribute to the project.
